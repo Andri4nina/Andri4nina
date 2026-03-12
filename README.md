@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 En ce moment...
-| 🛠️ Je travaille sur | 🌱 J'apprends | 🎯 Objectif 2024 |
+| 🛠️ Je travaille sur | 🌱 J'apprends | 🎯 Objectif 2027 |
 | :--- | :--- | :--- |
-| **[Nom du Projet]** | **Three.js & Shaders** | **Devenir Senior Dev** |
+| **L"UX/UI** | **Three.js & Shaders** | **Devenir un pro** |
 
 ---
 
@@ -21,21 +21,21 @@
   <tr>
     <td align="center" width="300">
       **Design & Motion**<br />
-      <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr,ai" />
+      <img src="https://skillicons.dev/icons?i=figma,canva,adobe" />
     </td>
     <td align="center" width="300">
       **Code & Logic**<br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs" />
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,threejs" />
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
       **Back-end & Tools**<br />
-      <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,git,docker" />
+      <img src="https://skillicons.dev/icons?i=nodejs,git,docker" />
     </td>
     <td align="center" width="300">
       **Environnement**<br />
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,apple,vercel" />
+      <img src="https://skillicons.dev/icons?i=vscode,neovim,vercel" />
     </td>
   </tr>
 </table>
