@@ -44,19 +44,19 @@
 
 ## 📈 Analyse de Performance (Insights)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andri4nina&theme=tokyonight&area=true&hide_border=true" width="100%" />
 
 <br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andri4nina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andri4nina&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=TON_PSEUDO&theme=tokyonight&no-frame=true&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Andri4nina&theme=tokyonight&no-frame=true&column=4" width="100%" />
 
 ---
 
