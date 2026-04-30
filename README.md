@@ -1,79 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=kame&color=auto&height=200&section=header&text=[TON%20NOM]&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Bannière" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Andri4nina&fontSize=60&fontAlignY=35&animation=fadeIn" />
 
-# 🎨 Creative Developer & UI Designer 💻
+# ✨ Creative Developer & UI Designer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Concevoir+l'impossible;Coder+le+futur;Design+System+Expert;Full-stack+Enthusiast)](https://git.io/typing-svg)
-
----
-
-### 🚀 En ce moment...
-| 🛠️ Je travaille sur | 🌱 J'apprends | 🎯 Objectif 2027 |
-| :--- | :--- | :--- |
-| **L"UX/UI** | **Three.js & Shaders** | **Devenir un pro** |
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Build+beautiful+interfaces;Think+in+systems;Create+interactive+experiences" />
 
 ---
 
-## 🛠️ Mon Arsenal Créatif
+## 🚀 Actuellement
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      **Design & Motion**<br />
-      <img src="https://skillicons.dev/icons?i=figma,canva,adobe" />
-    </td>
-    <td align="center" width="300">
-      **Code & Logic**<br />
-      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,threejs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      **Back-end & Tools**<br />
-      <img src="https://skillicons.dev/icons?i=nodejs,git,docker" />
-    </td>
-    <td align="center" width="300">
-      **Environnement**<br />
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,vercel" />
-    </td>
-  </tr>
-</table>
+```txt
+🛠️ Focus : UX/UI
+🌱 Learning : Three.js + Shaders
+🎯 Goal : Expert dev & design
+```
 
 ---
 
-## 📈 Analyse de Performance (Insights)
+## 🧰 Stack
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andri4nina&theme=tokyonight&area=true&hide_border=true" width="100%" />
-
-<br />
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andri4nina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andri4nina&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=figma,react,ts,tailwind,threejs,nodejs,docker,git,vscode" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Andri4nina&theme=tokyonight&no-frame=true&column=4" width="100%" />
+## 📊 Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andri4nina&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andri4nina&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-## 💬 Let's Connect!
+## 🔥 Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andri4nina&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github.com/Andri4nina/Andri4nina/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+
+---
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andri4nina&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
+
+---
+
+## 🌐 Contact
 
 <a href="https://linkedin.com/in/TON_LIEN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://tonportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:ton-email@exemple.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br />
+---
 
-> "Le design n'est pas seulement ce à quoi il ressemble. Le design est la façon dont il fonctionne." — **Steve Jobs**
+> 💡 *"Design is intelligence made visible."*
 
 </div>
