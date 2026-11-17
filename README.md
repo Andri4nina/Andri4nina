@@ -82,10 +82,6 @@ I transform ideas into digital products through thoughtful design, frontend deve
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andri4nina&repo=Kalo&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=8B5CF6&text_color=C9D1D9" alt="Kalo project" />
 </a>
 
-<a href="https://github.com/Andri4nina/Ticketing-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andri4nina&repo=Ticketing-ui&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=8B5CF6&text_color=C9D1D9" alt="Ticketing-ui project" />
-</a>
-
 </div>
 
 ---
