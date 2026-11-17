@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+\<div align="center">
 
 \<img src="[https://capsule-render.vercel.app/api?type=venom&height=260&text=ANDRI4NINA&fontSize=68&fontColor=FFFFFF&color=0:080D18,45:164E8A,100:7C3AED&stroke=60A5FA&animation=fadeIn&desc=CREATIVE%20DEVELOPER%20%2F%20DIGITAL%20DESIGNER&descSize=15&descAlignY=72](https://capsule-render.vercel.app/api?type=venom\&height=260\&text=ANDRI4NINA\&fontSize=68\&fontColor=FFFFFF\&color=0:080D18,45:164E8A,100:7C3AED\&stroke=60A5FA\&animation=fadeIn\&desc=CREATIVE%20DEVELOPER%20%2F%20DIGITAL%20DESIGNER\&descSize=15\&descAlignY=72)" width="100%" />
 
